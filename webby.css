@@ -46,11 +46,11 @@ nav{
     transform: translate(-20%);
 }
 #circle{
-    width: 700px;
-    height: 600px;
+    width: 736px;
+    height: 500px;
     position: absolute;
-    top: 100;
-    left: 140;
+    top: 150;
+    left: 400;
     border-radius: 100%;
     background: #f44336;
 }
@@ -73,7 +73,7 @@ nav{
     width: 200px;
     position: absolute;
     top: 56%;
-    left: 35%;
+    left: 76%;
     transform: translateY(-50%);
     z-index: 1;
 }
